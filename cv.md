@@ -1,5 +1,5 @@
 # Gerasimov Maxim
-![My foto:]()
+![My foto:](https://imgur.com/a/HPmyZQV)
 
 
 ## My skills: C++ , Python(django), HTML , CSS, Golang.  
