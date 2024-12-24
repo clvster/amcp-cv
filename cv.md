@@ -1,5 +1,5 @@
 # Gerasimov Maxim
-![My foto:](https://imgur.com/a/HPmyZQV)
+![My foto:](https://i.imgur.com/G6fAuJD.jpeg)
 
 
 ## My skills: C++ , Python(django), HTML , CSS, Golang.  
